@@ -9,5 +9,5 @@ It has 3 modes: (Taking m as an object of class Model)
 3) m.plot(): Shows the current curve fitted to the data points.
 
 Example Usage:
-sinrad.csv: Data to be fed
-curve.csv : Available data
+1) sinrad.csv: Data to be fed
+2) curve.csv : Available data
