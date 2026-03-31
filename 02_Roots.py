@@ -1,6 +1,6 @@
 import numpy as np
 
-E=2.220446049250313e-16
+E=np.finfo(np.float64).eps 
 
 def solve(f,a,b):
     global E
