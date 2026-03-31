@@ -13,3 +13,5 @@ Files to be used:
 Example Usage for 01_Lagrange Interpolation.py:
 1) sinrad.csv: Data to be fed
 2) curve.csv : Available data
+
+Other Files: Handler.py handles input/output and streams data from csv files.
